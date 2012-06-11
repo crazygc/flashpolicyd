@@ -3,5 +3,5 @@
 <cross-domain-policy>
 <site-control permitted-cross-domain-policies="master-only"/>
 <!-- If you want to limit the flashpolicyd to a specific domain/port please change the domain and to-ports parameters.  -->
-<allow-access-from domain="*" to-ports="*" />
+<allow-access-from domain="94.249.251.109" to-ports="1200" />
 </cross-domain-policy>
